@@ -1,0 +1,10 @@
+Title: Infer LLMs Fast Productionize Faster
+
+Abstract Idea: 
+
+  Techniques which are being used in industry to infer llms faster
+  Tools that will help us achieve the same
+  Take a bert based model and perform these optimizations using the tools # colab notebook
+  Do the comparisions across sizes - small, medium and large infer the results according to the technique
+  Best Practices in general like [torch.no_grad] and the checks to do before you move the hf models to production.
+
